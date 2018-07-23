@@ -1,0 +1,86 @@
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Form2.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Form3.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Form4.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Form5.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\WindowsFormApplication\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.VerVotacao.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Code\CSharp\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rui_c\Desktop\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Code\CSharp\trabalho redes\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.AdminScreen.resources
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.CriaVotacao.resources
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.ResultadoPorQuestao.resources
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache

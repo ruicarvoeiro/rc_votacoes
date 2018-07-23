@@ -1,0 +1,42 @@
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Code\Visual Studio 2015\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\A-Servidor\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
+C:\Code\CSharp\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Code\CSharp\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Code\CSharp\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Code\CSharp\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Code\CSharp\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Code\CSharp\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Users\rui_c\Desktop\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Users\rui_c\Desktop\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Users\rui_c\Desktop\Cadeiras\1ºAno-2ºSemestre\Redes de Computadores\Trabalho_Pratico\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Code\CSharp\trabalho redes\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Users\rui_c\Desktop\Entregar\Código\FormApplication\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe.config
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\obj\Debug\A - Servidor.exe
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\obj\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\bin\Debug\A - Servidor.exe
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\bin\Debug\A - Servidor.pdb
+C:\Users\rossa\Downloads\FormApplication\FormApplication\A - Servidor\A - Servidor\obj\Debug\A - Servidor.csprojResolveAssemblyReference.cache
